@@ -1,2 +1,2 @@
 "# repo1" 
-connecting to jira.
+connecting to jira to git
