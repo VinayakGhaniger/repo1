@@ -1,7 +1,1 @@
-"# repo1" 
-connecting to jira to git
-add comapre.
-Feedback Form Creation.
-Admin Dashbord.
-datastorage.
-changed to show.1
+creating the changes made to the file
